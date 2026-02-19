@@ -1,0 +1,8 @@
+{
+    "name": "Misa W Portfolio",
+    "short_name": "Misa W",
+    "icons": [],
+    "theme_color": "#090a0a",
+    "background_color": "#090a0a",
+    "display": "standalone"
+}

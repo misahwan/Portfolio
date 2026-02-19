@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Node (just in case you add tooling later)
+node_modules/
+.env
